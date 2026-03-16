@@ -91,5 +91,17 @@ Eine solche Konzentration kann ein Risiko darstellen, da mehrere Mietverträge g
 - Zwischen **2023 und 2026** besteht ein erhöhtes Risiko durch auslaufende Mietverträge.
 
 ---
+## Projektstruktur
+Rent-Roll
+- data
+- notebooks
+- images
+---
+
+## Fazit
+
+Die Analyse zeigt, dass ein strukturierter Rent-Roll-Datensatz wertvolle Einblicke in die Performance eines Immobilienportfolios liefern kann.
+
+Insbesondere die Kombination aus **Auslastungsanalyse, Mietpreisstruktur und Vertragsendrisiken** ermöglicht eine fundierte Bewertung möglicher Chancen und Risiken im Portfolio.
 
 
