@@ -92,5 +92,4 @@ Eine solche Konzentration kann ein Risiko darstellen, da mehrere Mietverträge g
 
 ---
 
-## Projektstruktur
 
